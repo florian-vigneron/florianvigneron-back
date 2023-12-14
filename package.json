@@ -6,7 +6,7 @@
     "start": "npx directus start"
   },
   "engines": {
-    "node": ">=18"
+    "node": ">=20"
   },
   "dependencies": {
     "directus": "^10.8.1",
